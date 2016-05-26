@@ -1,2 +1,0 @@
-DecodingCheck.exe test DecodedFiles
-pause
